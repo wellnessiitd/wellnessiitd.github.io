@@ -8,7 +8,7 @@ html, body  {
 }
 
 .navbar {
-  /*padding: .6rem;*/
+  padding: .6rem;
 
 }
 .navbar-nav li  {
@@ -26,9 +26,9 @@ html, body  {
 }
 
 .carousel-caption {
-   posit/*ion: absolute;
-   top: 50%*/;
-   /*transform: translateY(8%);*/
+   /*position: absolute;
+   top: 50%;
+   transform: translateY(8%);*/
    color: lightgrey;
 }
 
@@ -139,7 +139,6 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
 
 
 
