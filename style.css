@@ -5,7 +5,7 @@ html, body  {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
-  background: black;
+  /*background: black;*/
 }
 
 .navbar {
