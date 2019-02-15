@@ -8,6 +8,11 @@ html, body  {
   background: white;
 }
 
+#active {
+  background-color: green;
+  color-rendering: #346;
+}
+
 .navbar {
   padding: .6rem;
 
