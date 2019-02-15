@@ -53,6 +53,69 @@ html, body  {
   padding-right: 1.5rem;
 }
 
+.btn-primary:hover  {
+  background-color: #563d7c;
+  border: 1px solid #563d7c;
+}
+
+.jumbotron  {
+  padding: .5rem;
+  border-radius: 0;
+  /*vertical-align: center;*/
+}
+
+.padding  {
+  padding-bottom: 2rem;
+}
+
+.welcome  {
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+
+.welcome hr   {
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+
+.fa-om  {
+  color: #e54d26;
+}
+
+.fa-lightbulb {
+  color: #563d7c;
+}
+
+.fa-cogs  {
+  color: #2163af;
+}
+
+.fa-om, .fa-cogs, .fa-lightbulb   {
+  font-size: 4em;
+  margin: 1rem;
+}
+
+.fun  {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.gif  {
+  max-width: 60%
+}
+
+.qwerty {
+  max-width: 25% !important;
+}
+
+.qwerty1 {
+  max-width: 32% !important;
+}
+
+
 #nav-logo {
   width: 17%;
 }
