@@ -157,7 +157,17 @@ footer  {
 #nav-logo {
   width: 15%;
 }
- 
+
+hr.light  {
+  border-top: 1px solid #d5d5d5;
+  width: 75%;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+#fullrule {
+  width: 100%;
+}
 /*#spray  {
   height: 600%;
   width: 600%;
