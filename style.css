@@ -8,12 +8,17 @@ html, body  {
   background: white;
 }
 
+#mybtn  {
+  max-width: 10px;
+}
+
 #active {
   background-color: green;
 }
 
 .navbar {
   padding: .6rem;
+  white-space: nowrap;
     background: rgba(0,89,169,1);
 background: -moz-linear-gradient(left, rgba(0,89,169,1) 0%, rgba(48,165,76,1) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,89,169,1)), color-stop(100%, rgba(48,165,76,1)));
@@ -27,7 +32,7 @@ border:none;
 
 }
 .navbar-nav li  {
-  padding-right: 22px;
+  padding-right: 35px;
   white-space: nowrap;
 }
 
