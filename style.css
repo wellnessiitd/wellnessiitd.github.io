@@ -8,10 +8,6 @@ html, body  {
   background: white;
 }
 
-#mybtn  {
-  max-width: 10px;
-}
-
 #active {
   background-color: green;
 }
@@ -183,11 +179,10 @@ hr.light  {
 #fullrule {
   width: 100%;
 }
-/*#spray  {
-  height: 600%;
-  width: 600%;
+#spray  {
+  width: 80%;
 }
-*/
+
 
 
 
