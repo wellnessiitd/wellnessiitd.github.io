@@ -120,7 +120,7 @@ html, body  {
 }
 
 .social a {
-  font-size: 4.5em;
+  font-size: 6em;
   padding: 3rem;
 
 }
@@ -179,6 +179,10 @@ hr.light  {
 
 /*---Media Queries --*/
 @media (max-width: 992px) {
+  .social a   {
+    font-size: 4em;
+    padding: 2rem;
+  }
 
   }
 @media (max-width: 768px) {
@@ -204,6 +208,15 @@ hr.light  {
   font-size: 95%;
   padding: 8px 14px;
 }
+
+.display-4  {
+  font-size: 200%;
+}
+
+.social a   {
+    font-size: 3.5em;
+    padding: 1.2rem;
+  }
   
 }
 @media (max-width: 576px) {
