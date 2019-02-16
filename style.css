@@ -193,7 +193,9 @@ hr.light  {
 }
 
 
-
+#head1  {
+  /*width: 80%;*/
+}
 
 
 /*---Media Queries --*/
