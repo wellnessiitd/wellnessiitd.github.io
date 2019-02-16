@@ -104,11 +104,15 @@ border:none;
   color: #563d7c;
 }
 
-.fa-cogs  {
+.fa-battery-full  {
   color: #2163af;
 }
 
-.fa-om, .fa-cogs, .fa-bolt   {
+#white   {
+  color: #fff;
+}
+
+.fa-om, .fa-battery-full, .fa-bolt   {
   font-size: 4em;
   margin: 1rem;
 }
@@ -159,6 +163,10 @@ border:none;
   color: #d5d5d5;
 }
 
+#buddha {
+  width: 80px;
+}
+
 footer  {
   background-color: #3f3f3f;
   color: #d5d5d5;
@@ -166,7 +174,7 @@ footer  {
 }
 
 #nav-logo {
-  width: 15%;
+  width: 70%;
 }
 
 hr.light  {
