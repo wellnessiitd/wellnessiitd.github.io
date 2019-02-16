@@ -5,11 +5,12 @@ html, body  {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
-  background: white;
+  background: #d5d5d5;
 }
 
 #active {
-  background-color: yellow;
+  /*background-color: yellow;*/
+  color: white;
 }
 
 .navbar {
