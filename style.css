@@ -100,7 +100,7 @@ border:none;
   color: #e54d26;
 }
 
-.fa-lightbulb {
+.fa-bolt {
   color: #563d7c;
 }
 
@@ -108,7 +108,7 @@ border:none;
   color: #2163af;
 }
 
-.fa-om, .fa-cogs, .fa-lightbulb   {
+.fa-om, .fa-cogs, .fa-bolt   {
   font-size: 4em;
   margin: 1rem;
 }
